@@ -7,4 +7,4 @@ const routes = (app) => {
     app.get("/posts", listarPosts);
 };
 
-export   default routes;
+export default routes;
